@@ -71,7 +71,7 @@ const TasksForm: React.FC = () => {
         <br />
         <Form onSubmit={onSubmit}>
           <Form.Group>
-            <Form.Label style={{color: "#fff"}}>Titulo</Form.Label>
+            <Form.Label>Titulo</Form.Label>
             <Form.Control 
             type="text"
             name="title"
@@ -80,7 +80,7 @@ const TasksForm: React.FC = () => {
           </Form.Group>
           <br />
           <Form.Group>
-            <Form.Label style={{color: "#fff"}} >Descrição</Form.Label>
+            <Form.Label >Descrição</Form.Label>
             <Form.Control
              as="textarea"
              rows={3}

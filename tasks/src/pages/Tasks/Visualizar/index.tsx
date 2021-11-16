@@ -47,39 +47,21 @@ const Visualizar: React.FC = () => {
             Voltar
           </Button>
         </C.Header>
-        <br/>
-        <Card>
+        <br />
+        <Card key={task?.id}>
           <Card.Body>
             <Card.Title>{task?.title}</Card.Title>
-            <br/>
+            <br />
             <Card.Text>
-              <div>
-                <strong>DESCRIÇÃO:</strong>
-                {task?.description}                
-              </div>
-              
-              <div>
-                <strong>SITUAÇÃO:</strong>
-                <Badge pill bg={task?.finished ? "success" : "warning"}>
-                  {task?.finished ? "FINALIZADO" : "PENDENTE"}
+                <p> {" "} <strong>DESCRIÇÃO: </strong>
+                </p>  {task?.description}
+                <p> <strong>SITUAÇÃO: </strong> </p> <Badge pill bg={task?.finished ? "success" : "warning"}>{task?.finished ? "FINALIZADO" : "PENDENTE"} </Badge>{" "}
+                <p>{" "}<strong>DATA DE CADASTRO: </strong></p>
+                <Badge pill bg="info "> {" "}{formateDate(task?.created_at)}{" "}
                 </Badge>{" "}
-              </div>
-              
-              <div>
-                <strong>DATA DE CADASTRO:</strong>
-                <Badge pill bg="info ">
-                  {" "}
-                  {formateDate(task?.created_at)}{" "}
+                <p><strong>DATA DE ATUALIZAÇÃO: </strong></p>
+                <Badge pill bg="info "> {" "} {formateDate(task?.updated_at)}{" "}
                 </Badge>{" "}
-              </div>
-              
-              <div>
-                <strong>DATA DE ATUALIZAÇÃO:</strong>
-                <Badge pill bg="info ">
-                  {" "}
-                  {formateDate(task?.updated_at)}{" "}
-                </Badge>{" "}
-              </div>
             </Card.Text>
           </Card.Body>
         </Card>
