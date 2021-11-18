@@ -50,11 +50,12 @@ const Visualizar: React.FC = () => {
         <br />
         <Card key={task?.id}>
           <Card.Body>
-            <Card.Title>{task?.title}</Card.Title>
+            <Card.Title><h1>{task?.title}</h1></Card.Title>
             <br />
             <Card.Text>
-                <p> {" "} <strong>DESCRIÇÃO: </strong>
-                </p>  {task?.description}
+              <div className="container">
+                <p> {" "} <strong> </strong></p>  <h4>{task?.description}</h4>
+                
                 <p> <strong>SITUAÇÃO: </strong> </p> <Badge pill bg={task?.finished ? "success" : "warning"}>{task?.finished ? "FINALIZADO" : "PENDENTE"} </Badge>{" "}
                 <p>{" "}<strong>DATA DE CADASTRO: </strong></p>
                 <Badge pill bg="info "> {" "}{formateDate(task?.created_at)}{" "}
@@ -62,6 +63,7 @@ const Visualizar: React.FC = () => {
                 <p><strong>DATA DE ATUALIZAÇÃO: </strong></p>
                 <Badge pill bg="info "> {" "} {formateDate(task?.updated_at)}{" "}
                 </Badge>{" "}
+                </div>
             </Card.Text>
           </Card.Body>
         </Card>

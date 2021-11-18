@@ -7,6 +7,7 @@ import moment from "moment";
 
 import { pink } from '@mui/material/colors';
 import Checkbox from '@mui/material/Checkbox';
+import SearchIcon from '@mui/icons-material/Search';
 
 
 export interface ITasks {
@@ -61,7 +62,8 @@ const Tasks: React.FC = () => {
         <br />
         <C.Header>
           <h1>Paginas de Tarefas</h1>
-
+            <input type="search" placeholder="            Qual tarefa você busca?"/>
+          <SearchIcon className="icon"/>
           <Button variant="dark" onClick={newTask}>
             Nova Tarefa
           </Button>
@@ -71,7 +73,7 @@ const Tasks: React.FC = () => {
           striped
           bordered
           hover
-          variant="dark"
+          variant="light"
           className="text-center"
           style={{ backgroundColor: "#FFF" }}
         >
@@ -151,6 +153,7 @@ const Tasks: React.FC = () => {
             ))}
           </tbody>
         </Table>
+        <button className="botao">Remover Selecionados</button>
       </div>
     </C.Container>
   );
