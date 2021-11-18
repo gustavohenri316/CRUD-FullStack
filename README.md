@@ -36,8 +36,8 @@ Para configurar o ambiente do CRUD do Desafio, siga estas etapas:
 Windows e Linux:
 ```
 <Criar um banco de Dados no Postgre>
-<Adicionar as Informações do Json>
-<Abrir a pasta Tasks e rode um | NPM Install | >
+<Adicionar as Informações do banco de dados no arquivo ormconfig.json>
+<Abrir a pasta Tasks e Node um | NPM Install | >
 <Rode o código | NPM Start |>
 ```
 
