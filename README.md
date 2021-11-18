@@ -2,12 +2,12 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gustavohenri316
-/CRUD-FullStack)
-![GitHub language count](https://img.shields.io/github/languages/count/gustavohenri316
-/CRUD-FullStack)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gustavohenri316
-/CRUD-FullStack)
+![GitHub repo size](https://img.shields.io/github/repo-size/gustavohenri316/CRUD-FullStack)
+
+![GitHub language count](https://img.shields.io/github/languages/count/gustavohenri316/CRUD-FullStack)
+
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gustavohenri316/CRUD-FullStack)
+
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gustavohenri316/CRUD-FullStack)
 
 <a href="https://imgur.com/1WHVEC4"><img src="https://i.imgur.com/1WHVEC4.png" title="source: imgur.com" /></a>
