@@ -77,7 +77,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
 	<td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://i.imgur.com/WBPxwRL.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Tiago Henrique</b>
         </sub>
