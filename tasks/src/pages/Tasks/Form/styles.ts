@@ -4,8 +4,15 @@ export const Container = styled.div`
 flex-direction: row;
 justify-content: space-between;
 Button{
-    border-radius: 11px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
 }
+Button: hover {
+    background-color: red;
+}
+
 h3 {
     color: #FFF;
 }
@@ -20,5 +27,10 @@ Button{
     right: 310px;
     width: 200px;
     height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+Button: hover {
+    background-color: blue;
 }
 `

@@ -64,7 +64,7 @@ const Tasks: React.FC = () => {
           <h1>Paginas de Tarefas</h1>
             <input type="search" placeholder="            Qual tarefa você busca?"/>
           <SearchIcon className="icon"/>
-          <Button variant="dark" onClick={newTask}>
+          <Button variant="dark" onClick={newTask} className="button1">
             Nova Tarefa
           </Button>
         </C.Header>

@@ -4,8 +4,15 @@ export const Container = styled.div`
 flex-direction: row;
 justify-content: space-between;
 Button{
-    border-radius: 11px;
-
+    position: absolute;
+    right: 310px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+}
+Button: hover {
+    background-color: blue;
 }
 h3 {
     color: #FFF;

@@ -5,7 +5,20 @@ export const Container = styled.div`
 flex-direction: row;
 justify-content: space-between;
 
+
+h1{
+    background: -webkit-linear-gradient(
+        #6610f2, #00d4ff
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 50px 0  50px 0;
+}
 Button{
+    border-radius: 30px;
+    cursor: pointer;
+}
+button1 {
     border-radius: 30px;
     cursor: pointer;
 }
@@ -35,6 +48,13 @@ Button{
     height: 50px;
     border-radius: 30px;
     cursor: pointer;
+    border: none;
+}
+
+Button: hover {
+    background-color: #8A2BE2;
+    color: #000;
+    
 }
 input{
     width: 300px;
