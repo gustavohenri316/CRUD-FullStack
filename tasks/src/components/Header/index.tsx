@@ -15,7 +15,6 @@ const Header: React.FC = () => {
           navbarScroll
         >
           <Nav.Item as={Link} className="nav-link" to="/" >Inicio</Nav.Item>
-          <Nav.Item as={Link} className="nav-link" to="/tarefas" >Tarefas</Nav.Item>
           
         </Nav>
         
