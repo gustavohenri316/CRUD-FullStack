@@ -101,7 +101,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/f2GKG3x.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Paulo Ricardo</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/mwlite/in/paulo-ricardo-575700191">LinkedIn</a> 
       </a>
     </td>
 	<td align="center">
