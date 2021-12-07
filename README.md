@@ -65,7 +65,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/vGfkcxn.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Leonardo Abras</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/in/leonardoabras/">LinkedIn</a>
       </a>
     </td>
     <td align="center">
@@ -73,7 +74,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/xZmX9f9.png" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Mayron Entreportes</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/in/mayron-entreportes/">LinkedIn</a>      
       </a>
     </td>
 	<td align="center">
@@ -81,7 +83,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/WBPxwRL.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Tiago Henrique</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/in/thiago-henrique-silva-9a0609176">LinkedIn</a> 
       </a>
     </td>
 	<td align="center">
@@ -89,7 +92,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/G9TG0Ej.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Roane Marcel</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/in/roane-marcel-barbosa-silva-396350180/">LinkedIn</a> 
       </a>
     </td>
 	<td align="center">
@@ -105,7 +109,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/OfQqzyf.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Marcos Laranjeiras</b>
-        </sub>
+        </sub><br>
+	<a href="https://www.linkedin.com/in/marcoslaranjeiras">LinkedIn</a> 
       </a>
     </td>
   </tr>
