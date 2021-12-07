@@ -57,7 +57,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Gustavo Henrique</b>
         </sub>
-	<a href="https://www.linkedin.com/in/gustavohenri316">           
+	<sub>
+	    <b> LinkedIn</b>   
+	<a href="https://www.linkedin.com/in/gustavohenri316"> 
+        </sub>
       </a>
     </td>
     <td align="center">
