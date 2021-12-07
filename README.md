@@ -56,7 +56,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://i.imgur.com/3aXdZUZ.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Gustavo Henrique</b>
-        </sub>
+        </sub><br>
 	<a href="https://www.linkedin.com/in/gustavohenri316">LinkedIn</a>
       </a>
     </td>
